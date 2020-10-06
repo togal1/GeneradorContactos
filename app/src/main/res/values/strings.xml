@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeneradorDeContactos</string>
+    <string name="titulo">Completa todos los campos</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="telefono">Telefono de contacto</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion de contacto</string>
+    <string name="texto_boton">Siguiente</string>
+    <string name="titulo_visualizarDatos"></string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pnacimiento">nombre</string>
+    <string name="pdescripcion">telefono</string>
+
+</resources>
